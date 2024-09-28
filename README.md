@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Ahad-Rajput
+- 👋 Hi, I’m Ahad-Ali
 - 👀 I’m interested in Programming
 - 🌱 I’m currently learning Computer Science
 - 💞️ I’m looking to collaborate on ...
