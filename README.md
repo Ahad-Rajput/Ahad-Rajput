@@ -1,18 +1,56 @@
-<h1 align="center">Hi 👋, I'm Ahad Ali</h1>
-<h3 align="center">A passionate Computer Science student from Pakistan, eager to learn and grow in software development.</h3>
+<img align="right" src="https://komarev.com/ghpvc/?username=Ahad-Rajput&label=Profile%20views&color=0e75b6&style=flat" alt="Ahad-Rajput" />
 
-<img align="right" alt="coding" width="400" src="[[https://raw.githubusercontent.com/akndmr/akndmr/main/coding.gif](https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif)](https://camo.githubusercontent.com/4d9f5ecceb711eec6e2018f38a5677dc657c9738d4a65ba3b928c41c0a45b439/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966)">
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Ahad+Ali!;" />
+</h1>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/ahad ali" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ahad ali" height="30" width="40" /></a>
-</p>
+<h3 align="center">A passionate Computer Science student from Pakistan 🇵🇰</h3>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+<br/>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ahad-rajput&show_icons=true&locale=en&layout=compact" alt="ahad-rajput" /></p>
+<div align="center">
+ 
+ 🔭 I’m currently working on **learning Data Structures and Algorithms (DSA)**
+ 
+ 🌱 I’ve completed projects in **Python and C++**
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ahad-rajput&show_icons=true&locale=en" alt="ahad-rajput" /></p>
+💬 Ask me about **Python, C++, or anything [here](https://github.com/Ahad-Rajput/Ahad-Rajput/issues)**
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ahad-rajput&" alt="ahad-rajput" /></p>
+⚡ Fun fact **I love solving problems and learning new things every day!**
+
+</div>
+
+<div align="center"> 
+  <!-- Add your Gmail link here -->
+  <a href="mailto:your-email@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+  </a>
+  <!-- Add your LinkedIn profile link here -->
+  <a href="https://linkedin.com/in/your-linkedin-profile" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</div>
+
+<hr/>
+
+<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
+<br/>
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=cpp,python,html,css,github,git" />
+</div>
+
+<br/>
+<hr/>
+
+<h2 align="center">⚡ Stats ⚡</h2>
+<br>
+<div align="center">
+  <img width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=Ahad-Rajput&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
+  <img width=390 src="https://github-readme-stats.vercel.app/api?username=Ahad-Rajput&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
+  <br/>
+  <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ahad-Rajput&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10" alt="top langs" />
+</div>
+
+<br/><br/>
+
+<hr/>
