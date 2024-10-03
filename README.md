@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ahad Ali</h1>
 <h3 align="center">A passionate Computer Science student from Pakistan, eager to learn and grow in software development.</h3>
 
-<img align="right" alt="coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Fakndmr%2Fakndmr&psig=AOvVaw3Y0nOoVIeTDhipOvXP2sFY&ust=1728046834008000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCKC836LD84gDFQAAAAAdAAAAABAn">
+<img align="right" alt="coding" width="400" src="https://raw.githubusercontent.com/akndmr/akndmr/main/coding.gif">
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
