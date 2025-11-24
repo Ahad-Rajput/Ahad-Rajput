@@ -10,7 +10,7 @@
 
 <div align="center">
  
- 🔭 I’m currently working on **learning Data Structures and Algorithms (DSA)**
+ 🔭 I’m currently working on **Frontend Development**
  
  🌱 I’ve completed projects in **Python and C++**
 
