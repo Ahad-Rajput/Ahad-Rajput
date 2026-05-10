@@ -1,7 +1,7 @@
 <img align="right" src="https://komarev.com/ghpvc/?username=Ahad-Rajput&label=Profile%20views&color=0e75b6&style=flat" alt="Ahad-Rajput" />
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Ahad+Ali!;" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Ahad+Ali!;" />
 </h1>
 
 <h3 align="center">A passionate Computer Science student from Pakistan 🇵🇰</h3>
@@ -9,14 +9,16 @@
 <br/>
 
 <div align="center">
- 
- 🔭 I’m currently working on **Frontend Development**
- 
- 🌱 I’ve completed projects in **Python and C++**
 
-💬 Ask me about **Python, C++, or anything [here](https://github.com/Ahad-Rajput/Ahad-Rajput/issues)**
+🔭 I’m currently working on **Frontend Development**
 
-⚡ Fun fact **I love solving problems and learning new things every day!**
+🌱 Currently learning **NumPy, Pandas & Matplotlib for Machine Learning**
+
+💻 I’ve built projects using **Python, C++, HTML & CSS**
+
+💬 Ask me about **Python, C++, Frontend Development**
+
+⚡ Fun fact: **I love solving problems and learning new technologies every day!**
 
 </div>
 
@@ -24,31 +26,52 @@
   <a href="mailto:ranaahad9095@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
+
   <a href="https://linkedin.com/in/ahad-ali-dev" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
+
 </div>
 
 <hr/>
 
-<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
-<br/>
-<div align="center">
-    <img src="https://skillicons.dev/icons?i=cpp,python,html,css,github,git" />
-</div>
+<h2 align="center">⚒️ Languages • Frameworks • Tools ⚒️</h2>
 
 <br/>
-<hr/>
 
-<h2 align="center">⚡ Stats ⚡</h2>
-<br>
 <div align="center">
-  <img width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=Ahad-Rajput&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
-  <img width=390 src="https://github-readme-stats.vercel.app/api?username=Ahad-Rajput&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
-  <br/>
-  <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ahad-Rajput&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10" alt="top langs" />
-</div>
+
+<img src="https://skillicons.dev/icons?i=cpp,python,html,css,git,github,vscode" />
 
 <br/><br/>
 
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+
+<img src="https://img.shields.io/badge/Matplotlib-ffffff?style=for-the-badge&logo=plotly&logoColor=black" />
+
+</div>
+
+<br/>
+
+<hr/>
+
+<h2 align="center">⚡ GitHub Stats ⚡</h2>
+
+<br/>
+
+<div align="center">
+
+<img width="390" src="https://streak-stats.demolab.com?user=Ahad-Rajput&theme=react&border_radius=10" alt="streak stats"/>
+
+<img width="390" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Ahad-Rajput&theme=github_dark" />
+
+<br/>
+
+<img width="390" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Ahad-Rajput&theme=github_dark" />
+
+</div>
+
+<br/>
 <hr/>
